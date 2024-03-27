@@ -13,4 +13,4 @@ Rockbuster Stealth LLC, a former global movie rental chain, is adapting to the d
 The dataset, provided by Career Foundry within the project brief, is analyzed using a relational database management system and PostgreSQL. It encompasses details on customers, staff, store locations, available movies, actors, movie languages, and rental transactions.
 
 ## Visualizations:
-Visual representations for the project are crafted using Tableau Public. You can access the visuals here: [Rockbuster Visuals](link)
+Visual representations for the project are crafted using Tableau Public. 
